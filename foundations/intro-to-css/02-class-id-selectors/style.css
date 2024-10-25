@@ -2,3 +2,18 @@ p {
     background-color: rgb(228, 167, 177);
     font-family: Verdana, "DejaVu Sanes", sans-serif;
 }
+
+.second {
+    color: rgb(83, 83, 212);
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+.fourth {
+    background-color: rgb(136, 214, 136);
+    font-size: 24px;
+    font-weight: bold;
+}
